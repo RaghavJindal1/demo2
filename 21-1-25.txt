@@ -1,1 +1,2 @@
 writing text in file using echo cmd
+....new text added for testing
