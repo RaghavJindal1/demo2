@@ -1,0 +1,8 @@
+--- 21-1-25.txt	2025-01-21 14:55:41.485066100 +0530
++++ 24-1-25.txt	2025-01-29 15:13:55.760081200 +0530
+@@ -1,3 +1 @@
+-writing text in file using echo cmd
+-....new text added for testing
+-...check diff for untracked one 
++let's try patch
+\ No newline at end of file
